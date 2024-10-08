@@ -54,9 +54,5 @@ https://movie-senti.streamlit.app
 5. Explore review history and sample reviews
 6. If you encounter an "input dimension error", please reload the page
 
-## Acknowledgments
 
-1. IMDB dataset providers
-2. TensorFlow and Keras developers
-3. Streamlit developers
 
