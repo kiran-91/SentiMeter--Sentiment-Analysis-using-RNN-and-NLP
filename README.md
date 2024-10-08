@@ -3,7 +3,7 @@
 ## Project Overview
 This project uses a Simple Recurrent Neural Network (RNN) and Natural Language Processing (NLP) techniques to perform sentiment analysis movie reviews. The model classifies reviews as positive or negative based on the text input.
 
-## Features
+## Key Features
 1. Uses the IMDB dataset for training and testing
 2. Simple RNN model with embedding and dense layers
 3. Streamlit app for user-friendly input and output
