@@ -46,4 +46,17 @@ If you're on Team Lazy like me and would rather skip all the tasks, no worriesâ€
 https://movie-senti.streamlit.app
 ```
 
-   
+## Usage 
+1. Run the Streamlit app
+2. Enter a movie review in the text area
+3. Click the "Classify the review" button
+4. View the sentiment analysis result and prediction score
+5. Explore review history and sample reviews
+6. If you encounter an "input dimension error", please reload the page
+
+## Acknowledgments
+
+1. IMDB dataset providers
+2. TensorFlow and Keras developers
+3. Streamlit developers
+
