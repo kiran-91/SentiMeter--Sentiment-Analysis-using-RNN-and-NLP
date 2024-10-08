@@ -17,3 +17,33 @@ This project uses a Simple Recurrent Neural Network (RNN) and Natural Language P
 4. Streamlit
 5. Tensorflow/Keras
 6. nltk
+
+## Installation 
+To run the project locally, follow these steps
+1. Clone the repository
+```cmd
+git clone https://https://github.com/kiran-91/SentiMeter-Sentiment-Analysis.git
+cd SentiMeter-Sentiment-Analysis
+```
+2. Setup a virtual environment (optional but recommended)
+```cmd
+python -m venv venv
+source venv/bin/activate  # For Linux/MacOS
+venv\Scripts\activate  # For Windows
+```
+3. Install required dependencies
+```cmd
+pip install -r requirements.txt
+```
+4. Run the Streamlit app
+```cmd
+streamlit run app.py
+```
+
+## Results 
+If you're on Team Lazy like me and would rather skip all the tasks, no worries—just kick back and check out the Streamlit app right here!
+```cmd
+https://movie-senti.streamlit.app
+```
+
+   
