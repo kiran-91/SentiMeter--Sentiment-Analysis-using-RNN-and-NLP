@@ -1,4 +1,4 @@
-# SentiMeter🎦 -Sentiment Analysis using RNN and NLP hi hello all how 
+# SentiMeter🎦 -Sentiment Analysis using RNN and NLP hi hello 
 
 ## Project Overview
 This project uses a Simple Recurrent Neural Network (RNN) and Natural Language Processing (NLP) techniques to perform sentiment analysis movie reviews. The model classifies reviews as positive or negative based on the text input.
