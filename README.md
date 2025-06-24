@@ -10,6 +10,9 @@ This project uses a Simple Recurrent Neural Network (RNN) and Natural Language P
 4. Real-time sentiment analysis and prediction score display
 5. Review history tracking and display
 
+## Project Structure 
+![](diagram.png)
+
 ## Requirements
 1. Python 
 2. Pandas
